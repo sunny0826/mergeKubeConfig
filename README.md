@@ -19,7 +19,7 @@
         
 * 运行脚本
 
-    * 默认运行方式，kubeconfig文件放入```configfile```文件
+    * 默认运行方式，kubeconfig文件放入```configfile```文件,注意删掉作为示例的两个文件
     
             python merge.py
             
