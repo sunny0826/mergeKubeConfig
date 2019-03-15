@@ -21,11 +21,11 @@
 
     * 默认运行方式，kubeconfig文件放入```configfile```文件
     
-            python switch.py
+            python merge.py
             
     * 自定义kubeconfig文件目录
     
-            python switch.py -d {customdir}
+            python merge.py -d {custom-dir}
             
 ## 运行后操作
 

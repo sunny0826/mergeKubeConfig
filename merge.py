@@ -27,12 +27,12 @@ Before Usage:
 ---
 Usage:
   Select directory:
-    python switch.py -d configfile
+    python merge.py -d configfile
 
 ---
 使用：
   自定义选择目录
-    python switch.py -d configfile
+    python merge.py -d configfile
 
 """
 import argparse
